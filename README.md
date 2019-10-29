@@ -29,6 +29,6 @@ Since the project requires training deep networks, we will be requiring a GPU. T
 
 ### Hierarchical Attention Network: HAN.ipynb 
 * This file is the implementation of the Hierarchical Attention Network on the Amazon Reviews dataset
-* The Results of the code are stored in ADBI-Submission/HAN/Result folder
+* The Results of the code are stored in HAN/Result folder
 * The hierarchically prepared test and train data are located in HAN/Code folder
 * Pretrained model (1 million train + Validation) is present in HAN/Result folder
