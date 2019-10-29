@@ -8,6 +8,7 @@ Since the project requires training deep networks, we will be requiring a GPU. T
 * The dataset contains 4 million customer reviews.
 * Each review consists of text along with the number of stars (1-5). Higher the stars better the rating. 
 * Finally each review has been categorized as either positive or negative.
+* You can download the data from [here](https://www.kaggle.com/bittlingmayer/amazonreviews)
 
 ### Preprocessing: Amazon Reviews Classification.ipynb
 * This file preprocesses the entire 4 million reviews of training and test dataset.
